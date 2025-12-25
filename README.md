@@ -20,8 +20,3 @@
 - `data/sleep_data.csv` — исходные данные
 - `data/sleep_data_сleaned.csv` — очищенные данные
 - `sleep_analysis.ipynb` — полный анализ с визуализациями
-
-## ▶️ Как запустить
-1. Установите зависимости:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
