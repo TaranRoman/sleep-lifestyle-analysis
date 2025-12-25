@@ -20,3 +20,6 @@
 - `data/sleep_data.csv` — исходные данные
 - `data/sleep_data_сleaned.csv` — очищенные данные
 - `sleep_analysis.ipynb` — полный анализ с визуализациями
+
+
+YandexDataLense : https://datalens.ru/rdb71r2zjxo2b-finalnyy-proekt-vizualizaciya?state=686d22ee276
